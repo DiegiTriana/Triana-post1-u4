@@ -45,3 +45,7 @@ mvn spring-boot:run
 
 Ejecutar los tests:
 mvn test
+
+## Capturas de pantalla
+![image alt](https://github.com/DiegiTriana/Triana-post1-u4/blob/68f908d2e24442abdd4b0de14e89c80d609a22ac/captura%201.png)
+![image alt](https://github.com/DiegiTriana/Triana-post1-u4/blob/68f908d2e24442abdd4b0de14e89c80d609a22ac/captura%202.png)
