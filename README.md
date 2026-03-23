@@ -1,6 +1,6 @@
 # pedidos-comportamiento
 
-Proyecto de la materia Patrones de Diseño de Software - Unidad 4.
+Proyecto Unidad 4.
 Se implementaron los patrones Chain of Responsibility y Command en un proyecto
 Spring Boot que simula el backend de un sistema de comercio electronico con
 validacion de pedidos y operaciones reversibles.
